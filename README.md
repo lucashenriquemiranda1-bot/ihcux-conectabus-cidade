@@ -1,10 +1,10 @@
 # ihcux-conectabus-cidade
 
 ## 👥 Integrantes
-- Cauã Mendes  
-- Fábio Henrique Zanini Ferreira  
-- Gabriel Ferreira de Souza  
-- Lucas Henrique Miranda  
+- Cauã Mendes  RA: 326141078
+- Fábio Henrique Zanini Ferreira  RA: 326113387
+- Gabriel Ferreira de Souza  RA:
+- Lucas Henrique Miranda  RA: 325131396
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
 **Instituição:** Centro Universitário UNA – Belo Horizonte  
