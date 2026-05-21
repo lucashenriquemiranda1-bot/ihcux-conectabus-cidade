@@ -53,3 +53,4 @@ O protótipo foi desenvolvido pensando em usuários com mobilidade reduzida ou e
 
 Essas escolhas tornam o aplicativo mais facil de usar e eficiente para todos os diferentes perfis de usuários.
 
+<img width="579" height="683" alt="screenshot 2026-05-20 at 20 46 31" src="https://github.com/user-attachments/assets/a2fb7aff-d884-40b9-b5e8-374746dabf4e" />
