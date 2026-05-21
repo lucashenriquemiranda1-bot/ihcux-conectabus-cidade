@@ -3,7 +3,7 @@
 ## 👥 Integrantes
 - Cauã Mendes  RA: 326141078
 - Fábio Henrique Zanini Ferreira  RA: 326113387
-- Gabriel Ferreira de Souza  RA:
+- Gabriel Ferreira de Souza  RA:325140970
 - Lucas Henrique Miranda  RA: 325131396
 
 **Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
